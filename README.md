@@ -1,3 +1,6 @@
+[HR Dashboard]("C:/Users/carme/OneDrive/Pictures/Screenshots/Screenshot 2025-02-09 201813.png")
+
+
 # Human Resource Dashboard
 
 ## Overview
